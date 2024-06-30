@@ -3,9 +3,6 @@
 body{
     background-color: rgb(0, 0, 0);
     color: white;
-}
-
-body{
     font-family: 'Oswald', Courier, monospace;
 }
 
@@ -23,7 +20,7 @@ hr{
 }
 
 h2{
-    font-family: 'Oswald', 'Arial Narrow', Arial, sans-serif;
+    font-family: Oswald;
     font-weight: 100;
     position: relative;
     bottom: -60px;
@@ -50,8 +47,6 @@ form .formulario{
     left: 40%;
     top: 160px;
     bottom: -px;
-    width: ;
-    
 }
 
 .botaoapagar{
@@ -101,19 +96,4 @@ div .botoes{
     color: blue;
     font-weight: 700;
     font-size: 35px;
-}
-
-.produtos2{
-    position: absolute;
-    bottom: -30%;
-    left: -50%;
-    width: 18%;
-    text-align: center;
-    font-family: 'Oswald', Courier, monospace;
-}
-
-.cel{
-    position: absolute;
-    width: -50%;
-    height: -10%;
 }
