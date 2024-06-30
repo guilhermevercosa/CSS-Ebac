@@ -5,6 +5,10 @@ body{
     color: white;
 }
 
+body{
+    font-family: 'Oswald', Courier, monospace;
+}
+
 hr{
     position: relative;
     top: 75px;
